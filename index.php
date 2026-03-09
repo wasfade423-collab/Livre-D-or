@@ -127,7 +127,7 @@
             </div>
             <div class="action" style="width: 100%">
                 <button type="submit">Envoyer</button>
-                <button type="button"><a href="liste.html">Consulter</a></button>
+                <button type="button"><a href="liste.php">Consulter</a></button>
             </div>
         </div>
     </form>
